@@ -1,3 +1,3 @@
-import "pg_dump"
+import "./pg_dump"
 
-./pg_dump
+pg_dump
